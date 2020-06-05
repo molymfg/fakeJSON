@@ -1,0 +1,16 @@
+{
+"products": [
+    {
+      "id": 1,
+      "name": "Ranch",
+      "product": "SILENCER",
+      "model": "Ranch"
+    },
+    {
+      "id": 2,
+      "name": "Commercial Pro",
+      "product": "SILENCER",
+      "model": "Commercial Pro"
+    }
+  ]
+ }
